@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: 1
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  startstring: MyString
+  start_at: 2022-12-19 09:11:52
+  end_at: 2022-12-19 09:11:52
+
+two:
+  status: 1
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  startstring: MyString
+  start_at: 2022-12-19 09:11:52
+  end_at: 2022-12-19 09:11:52
